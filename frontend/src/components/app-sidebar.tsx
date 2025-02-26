@@ -27,6 +27,10 @@ const data = {
                     title: "Testpage",
                     url: "/",
                 },
+                {
+                    title: "NewPage",
+                    url: "/newpage",
+                }, // Add link of new page to the side bar
             ],
         },
     ],
